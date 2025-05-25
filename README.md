@@ -1,5 +1,8 @@
-## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,postman,java,spring,mysql,react)]
+## Hi there, I'm nhatminh4403👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatminh4403&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,postman,java,spring,mysql,react)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhatminh4403&theme=dark&show_icons=true)
 <!--
 **nhatminh4403/nhatminh4403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
